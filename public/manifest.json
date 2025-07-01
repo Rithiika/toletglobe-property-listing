@@ -1,0 +1,8 @@
+{
+  "short_name": "To-Let Globe",
+  "name": "To-Let Globe Property Listing",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
